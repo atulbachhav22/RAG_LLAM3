@@ -69,7 +69,7 @@ SLACK_APP_TOKEN=xapp-your-slack-app-token
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### Author
-This code was written by [Richard Lankford](https://github.com/rwlankford/Project-3) with assistance and review from **Rimi Sharma** and **Tyler B. Shubert**
+This code was written by [Atul Bachhav](https://github.com/rwlankford/Project-3) with assistance and review from **Rimi Sharma** and **Tyler B. Shubert**
 
 ### License
 
